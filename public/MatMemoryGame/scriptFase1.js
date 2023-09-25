@@ -172,7 +172,7 @@ function checkCards() {
      // Função para redirecionar a pagina
      function redirecionar1() {
       // Altere o URL abaixo para a página desejada
-      window.location.href = "/index.html";
+      window.location.href = "https://rafael-silva-natal.github.io/Ligth_page/";
   }
 
   // Obtém o elemento do botão por seu ID
