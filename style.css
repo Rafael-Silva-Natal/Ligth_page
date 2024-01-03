@@ -1,3 +1,13 @@
+.body {
+  background: url('publicimagens/img_01.PNG') no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  /*background-color: black;*/
+}
+
 
   .align-right {
       text-align: right;
